@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+.img-sec img {
+    width: 120px;
+}
+
+.img-sec {
+    width: 100%;
+}
